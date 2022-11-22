@@ -16,7 +16,7 @@ typedef struct Seed {
 const int WIDTH = 600;
 const int HEIGHT = 400;
 
-const int NUM_SEEDS = 100;
+const int NUM_SEEDS = 5;
 Seed seeds[NUM_SEEDS];
 
 Pixel frame[HEIGHT][WIDTH];
